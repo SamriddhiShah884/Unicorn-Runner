@@ -1,0 +1,14 @@
+body{
+    background-image: url("unicorn-b.jpg");
+}
+
+.abc{
+    font-size:25px;
+    color:white;
+    background-color:transparent;
+    font-family:cursive;
+    border:3px solid white;
+    border-radius:30px;
+    padding-left:10px;
+    padding-right:10px;
+}
